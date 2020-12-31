@@ -1,5 +1,5 @@
 👋 🌎 
 
-<font size="1">Hi, I'm Stephanie</font>
+<font size="4">Hi, I'm Stephanie</font>
 
 
