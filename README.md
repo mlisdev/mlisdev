@@ -31,6 +31,7 @@ I will stop for expensive coffee and donuts.
 
 **Syracuse University** 
 **2017 - 2018** Master's in Library and Information Science 
+
 **2017 - 2018** Certificate of Advanced Study in Data Science
 
 --- 
