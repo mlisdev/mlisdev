@@ -1,9 +1,8 @@
-<img align="right" width="" height="" src="steph.jpg" alt="steph photo">
-
 ### 👋 🌎 
 ### Hi, I'm <span style="color:#527856;">Stephanie</span>.
 
 I will stop for expensive coffee and donuts. 
+
 These projects are from my General Assembly bootcamp. I no longer actively maintain this profile. 
 
 --- 
